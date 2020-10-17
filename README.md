@@ -53,7 +53,7 @@ Para tener el ambiente se necesita:
 ### Bajar la imagen de contenedor Apache
 
 - [https://hub.docker.com/_/httpd]()
-- Se debe bajar esto en cada uno de nuestros conetnedores
+- Se debe bajar esto en cada uno de nuestros contenedores
 
 ``docker pull httpd``
 
@@ -144,5 +144,4 @@ Para tener el ambiente se necesita:
 
 ### Tutorial
 
-- [https://github.com/docker/labs/tree/master/beginner/chapters
-]()
+- [https://github.com/docker/labs/tree/master/beginner/chapters]()
